@@ -5,6 +5,7 @@ import WelcomePage from './pages/WelcomePage';
 import HomePage from './pages/HomePage';
 import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
+import CartPage from './pages/CartPage';
 
 const Stack = createNativeStackNavigator();
 const App = () => {

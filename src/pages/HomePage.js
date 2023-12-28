@@ -274,7 +274,9 @@ const HomePage = () => {
           style={[
             styles.border,
             {height: 50, backgroundColor: colors.colorOrange},
-          ]}>
+          ]}
+          
+          onPress={() => navigation.navigate('CartPage', {cartItems})}>
           <Text
             style={{
               color: 'white',
