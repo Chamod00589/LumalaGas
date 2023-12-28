@@ -14,6 +14,7 @@ export const colors = {
 
       colorBlue: '#1B60DA',
       colorRed: '#F73B59',
+      colorOrange: '#FF3D00',
       colorYellow: '#FEF401'
     },
   ],
@@ -32,8 +33,9 @@ export const colors = {
 
       colorBlue: '#1B60DA',
       colorRed: '#F73B59',
+      colorOrange: '#FF3D00',
       colorYellow: '#FEF401'
-
+      
     },
   ],
 };
