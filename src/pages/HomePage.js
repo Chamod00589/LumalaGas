@@ -284,7 +284,7 @@ const HomePage = () => {
               fontSize: 30,
               fontWeight: 'bold',
             }}>
-            PLACE ORDER
+            View cart
           </Text>
         </TouchableOpacity>
       </SafeAreaView>
@@ -295,16 +295,16 @@ const HomePage = () => {
 export default HomePage;
 
 const styles = StyleSheet.create({
-  border: {
-    borderWidth: 1,
-    borderColor: 'red',
-  },
-  borderBlue: {
-    borderWidth: 1,
-    borderColor: 'blue',
-  },
-  borderGreen: {
-    borderWidth: 1,
-    borderColor: 'green',
-  },
+  // border: {
+  //   borderWidth: 1,
+  //   borderColor: 'red',
+  // },
+  // borderBlue: {
+  //   borderWidth: 1,
+  //   borderColor: 'blue',
+  // },
+  // borderGreen: {
+  //   borderWidth: 1,
+  //   borderColor: 'green',
+  // },
 });
